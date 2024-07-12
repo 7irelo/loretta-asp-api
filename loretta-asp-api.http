@@ -1,0 +1,6 @@
+@loretta_asp_api_HostAddress = http://localhost:5285
+
+GET {{loretta_asp_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
